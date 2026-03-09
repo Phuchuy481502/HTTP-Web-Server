@@ -43,4 +43,5 @@ Each incoming connection is handled by a child process, so the server stays free
 ## Requirements
 
 GCC on Linux/macOS or WSL on Windows.
+![Demo](demo-web.png)
 
